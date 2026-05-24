@@ -64,9 +64,13 @@ I am an ambitious developer and entrepreneur from Poland, deeply focused on buil
 
 I’m always open to discussing new AI automation projects, business workflow optimization, or just talking about the future of tech. Feel free to connect with me on any of these platforms:
 
-<p align="center"><a href="https://www.linkedin.com/in/adam-weso%C5%82owski-255685411"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="TU_WPISZ_SWÓJ_LINK_DO_INSTAGRAMA"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;&nbsp;<a href="TU_WPISZ_SWÓJ_LINK_DO_X"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a></p><br />
-<br />
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/adam-weso%C5%82owski-255685411"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="TU_WPISZ_SWÓJ_LINK_DO_INSTAGRAMA"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;&nbsp;
+  <a href="TU_WPISZ_SWÓJ_LINK_DO_X"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>&nbsp;&nbsp;
+  <a href="TU_WPISZ_SWÓJ_LINK_DO_DISCORDA"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+</p>
+<br /><br />
 <div align="center">
   <i>“The best way to predict the future is to create it.”</i>
 </div>
