@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/type=slice&color=gradient&height=180&text=Adam%20Wesolowski&fontSize=45" alt="Header" />
+  <img width="1240" height="380" alt="Adam Wesolowski AI Agency Banner" src="https://github.com/user-attachments/assets/7a779152-1f1e-4f74-93fc-0b6fbd207e5a" />
 </div>
 
 <br />
@@ -47,11 +47,13 @@ I am an ambitious developer and entrepreneur from Poland, deeply focused on buil
 
 ---
 
-### 📈 Goals for 2026
-<br />
-* [ ] Master advanced Multi-Agent AI workflows and cognitive architectures
-* [ ] Deliver 3 production-ready automation systems for real-world businesses
-* [ ] Launch a solo AI automation & development agency by the end of the year
+### 📈 2026 Roadmap & Milestones
+
+| Milestone & Focus | Target | Status |
+| :--- | :---: | :---: |
+| **🤖 Advanced Multi-Agent AI Workflows** <br> _Deep dive into autonomous agent systems and cognitive architectures_ | `Q2 2026` | 🔄 **In Progress** |
+| **💼 Production-Ready Deployments** <br> _Delivering 3 commercial automation systems for real-world businesses_ | `Q3 2026` | ⏳ **Next Up** |
+| **🚀 Agency Launch** <br> _Officially establishing and scaling a solo AI automation agency_ | `Q4 2026` | 💤 **Planned** |
 
 <br />
 <br />
@@ -59,13 +61,22 @@ I am an ambitious developer and entrepreneur from Poland, deeply focused on buil
 ---
 
 ### 🔗 Let's Connect!
-<br />
-I’m always open to discussing new AI automation projects, business workflow optimization, or just talking about the future of tech.
 
-<p id="contact">
-  <a href="TU_WPISZ_SWÓJ_LINK_DO_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
-  <a href="TU_WPISZ_SWÓJ_LINK_DO_X_LUB_STRONY"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter Badge" /></a>
-</p>
+I’m always open to discussing new AI automation projects, business workflow optimization, or just talking about the future of tech. Feel free to connect with me on any of these platforms:
+
+<div align="center">
+  <a href="TU_WPISZ_SWÓJ_LINK_DO_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="TU_WPISZ_SWÓJ_LINK_DO_INSTAGRAMA">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="TU_WPISZ_SWÓJ_LINK_DO_X">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+</div>
 
 <br />
 <br />
