@@ -1,14 +1,25 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=200&section=header&text=Adam%20Wesolowski&fontSize=50&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/type=slice&color=gradient&height=180&text=Adam%20Wesolowski&fontSize=45" alt="Header" />
 </div>
 
-## 👋 Hello World, I'm Adam!
+<br />
+
+<div align="center">
+  <h2 align="center">Hello World, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Adam!</h2>
+</div>
+
+<br />
 
 I am an ambitious developer and entrepreneur from Poland, deeply focused on building **AI-driven business automation systems** and modern web applications. In 2026, I am documenting my entire journey right here – from the ground up to launching my own AI automation agency.
+
+<br />
+<br />
 
 ---
 
 ### 🛠️ Tech Stack & Tools
+
+<br />
 
 #### 🚀 Core Foundations (Familiar with)
 <p id="foundations">
@@ -18,6 +29,8 @@ I am an ambitious developer and entrepreneur from Poland, deeply focused on buil
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
+
+<br />
 
 #### 🧠 Currently Mastering (Target: Q3/Q4 2026)
 <p id="mastering">
@@ -29,13 +42,32 @@ I am an ambitious developer and entrepreneur from Poland, deeply focused on buil
   <img src="https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind_css&logoColor=white" alt="Tailwind" />
 </p>
 
+<br />
+<br />
+
 ---
 
 ### 📈 Goals for 2026
-- [ ] Master advanced Multi-Agent AI workflows and cognitive architectures
-- [ ] Deliver 3 production-ready automation systems for real-world businesses
-- [ ] Launch a solo AI automation & development agency by the end of the year
+<br />
+* [ ] Master advanced Multi-Agent AI workflows and cognitive architectures
+* [ ] Deliver 3 production-ready automation systems for real-world businesses
+* [ ] Launch a solo AI automation & development agency by the end of the year
 
+<br />
+<br />
+
+---
+
+### 🔗 Let's Connect!
+<br />
+I’m always open to discussing new AI automation projects, business workflow optimization, or just talking about the future of tech.
+
+<p id="contact">
+  <a href="TU_WPISZ_SWÓJ_LINK_DO_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
+  <a href="TU_WPISZ_SWÓJ_LINK_DO_X_LUB_STRONY"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter Badge" /></a>
+</p>
+
+<br />
 <br />
 
 <div align="center">
